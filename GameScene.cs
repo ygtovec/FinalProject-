@@ -180,6 +180,7 @@ namespace FinalProject
             playerAvatar.SizeMode = PictureBoxSizeMode.StretchImage;
             // Show ending screen
             endGamePanel.Visible = true;
+            totalScoreLBL.Text = "Total score: " + score;
         }
 
         private void PipeManager() // Set general rules for pipe objects 
