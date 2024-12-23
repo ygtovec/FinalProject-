@@ -1,0 +1,11 @@
+C:\Users\yigit\source\repos\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\yigit\source\repos\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\yigit\source\repos\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.GameScene.resources
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.MainMenu.resources
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\yigit\source\repos\FinalProject\obj\Debug\FinalProject.pdb
